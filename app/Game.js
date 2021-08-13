@@ -13,6 +13,10 @@ class Game {
       category: 'Utwór literacki',
     },
     {
+      text: 'hobbit',
+      category: 'Utwór literacki',
+    },
+    {
       text: 'janko muzykant',
       category: 'Utwór literacki',
     },
