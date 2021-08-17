@@ -17,6 +17,10 @@ class Game {
       category: 'Utwór literacki',
     },
     {
+      text: 'gra o tron',
+      category: 'Utwór literacki',
+    },
+    {
       text: 'janko muzykant',
       category: 'Utwór literacki',
     },
